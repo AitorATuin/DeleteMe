@@ -1,4 +1,11 @@
 {
     project-1 = {
+        domain = inteleon.io
+        external = false
     }
+
+    project-2 = {
+
+    }
+
 }
