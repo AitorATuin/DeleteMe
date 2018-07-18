@@ -8,4 +8,13 @@
 
     }
 
+    project-3 = {
+       artifact-pipeline = project-2
+    }
+
+    project-4 = {
+       artifact-pipeline = project-2
+       type = cron
+    }
+
 }
