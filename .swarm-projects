@@ -9,12 +9,15 @@
     }
 
     project-3 = {
-       artifact-pipeline = project-2
+       artifact-pipeline = project-2-build
     }
 
     project-4 = {
-       artifact-pipeline = project-2
+       artifact-pipeline = project-1-build
        type = cron
     }
 
+    project-5 = {
+       artifact-pipeline = project-2-build
+    }
 }
